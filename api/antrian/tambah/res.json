@@ -1,0 +1,101 @@
+
+[
+    {
+        "api/user" : {
+            "label" : "halo"
+        }
+    }
+    ,
+    {
+        "id": 1,
+        "nama": "KAWEDANAN"
+    },
+    {
+        "id": 2,
+        "nama": "NGUJUNG"
+    },
+    {
+        "id": 3,
+        "nama": "KARANGREJO"
+    },
+    {
+        "id": 4,
+        "nama": "CANDIREJO"
+    },
+    {
+        "id": 5,
+        "nama": "NGARIBOYO"
+    },
+    {
+        "id": 6,
+        "nama": "TAKERAN"
+    },
+    {
+        "id": 7,
+        "nama": "MAOSPATI"
+    },
+    {
+        "id": 8,
+        "nama": "PLAOSAN"
+    },
+    {
+        "id": 9,
+        "nama": "PANEKAN"
+    },
+    {
+        "id": 10,
+        "nama": "SUKOMORO"
+    },
+    {
+        "id": 11,
+        "nama": "KARTOHARJO"
+    },
+    {
+        "id": 12,
+        "nama": "TAJI"
+    },
+    {
+        "id": 13,
+        "nama": "BENDO"
+    },
+    {
+        "id": 14,
+        "nama": "PONCOL"
+    },
+    {
+        "id": 15,
+        "nama": "PARANG"
+    },
+    {
+        "id": 16,
+        "nama": "LEMBEYAN"
+    },
+    {
+        "id": 17,
+        "nama": "GORANG GARENG TAJI"
+    },
+    {
+        "id": 18,
+        "nama": "TLADAN"
+    },
+    {
+        "id": 19,
+        "nama": "SUMBERAGUNG"
+    },
+    {
+        "id": 20,
+        "nama": "SIDOKERTO"
+    },
+    {
+        "id": 21,
+        "nama": "TEBON"
+    },
+    {
+        "id": 22,
+        "nama": "REJOMULYO"
+    },
+    {
+        "id": 99,
+        "nama": "Virtual"
+    }
+]
